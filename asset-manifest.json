@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/CancerbotDemo/static/css/main.cd41f87f.chunk.css",
+    "main.js": "/CancerbotDemo/static/js/main.414a3fbe.chunk.js",
+    "main.js.map": "/CancerbotDemo/static/js/main.414a3fbe.chunk.js.map",
+    "runtime-main.js": "/CancerbotDemo/static/js/runtime-main.e2f2f9f3.js",
+    "runtime-main.js.map": "/CancerbotDemo/static/js/runtime-main.e2f2f9f3.js.map",
+    "static/js/2.1e547410.chunk.js": "/CancerbotDemo/static/js/2.1e547410.chunk.js",
+    "static/js/2.1e547410.chunk.js.map": "/CancerbotDemo/static/js/2.1e547410.chunk.js.map",
+    "static/js/3.a2302020.chunk.js": "/CancerbotDemo/static/js/3.a2302020.chunk.js",
+    "static/js/3.a2302020.chunk.js.map": "/CancerbotDemo/static/js/3.a2302020.chunk.js.map",
+    "index.html": "/CancerbotDemo/index.html",
+    "static/css/main.cd41f87f.chunk.css.map": "/CancerbotDemo/static/css/main.cd41f87f.chunk.css.map",
+    "static/js/2.1e547410.chunk.js.LICENSE.txt": "/CancerbotDemo/static/js/2.1e547410.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/CancerbotDemo/static/media/logo.103b5fa1.svg",
+    "static/media/logo.d0a28471.png": "/CancerbotDemo/static/media/logo.d0a28471.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e2f2f9f3.js",
+    "static/js/2.1e547410.chunk.js",
+    "static/css/main.cd41f87f.chunk.css",
+    "static/js/main.414a3fbe.chunk.js"
+  ]
+}
